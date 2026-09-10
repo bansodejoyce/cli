@@ -121,25 +121,25 @@
         },
         {
             "name": "bugsnag/bugsnag",
-            "version": "v3.30.1",
+            "version": "v3.31.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/bugsnag/bugsnag-php.git",
-                "reference": "cb2324147efe7aedb5177fdcd68a94f5c5bedf78"
+                "reference": "9f3f9ffae5ef6a941aaf2cc5caca4f69301e418a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/bugsnag/bugsnag-php/zipball/cb2324147efe7aedb5177fdcd68a94f5c5bedf78",
-                "reference": "cb2324147efe7aedb5177fdcd68a94f5c5bedf78",
+                "url": "https://api.github.com/repos/bugsnag/bugsnag-php/zipball/9f3f9ffae5ef6a941aaf2cc5caca4f69301e418a",
+                "reference": "9f3f9ffae5ef6a941aaf2cc5caca4f69301e418a",
                 "shasum": ""
             },
             "require": {
                 "composer/ca-bundle": "^1.0",
-                "guzzlehttp/guzzle": "^5.0|^6.0|^7.0",
+                "guzzlehttp/guzzle": "^5.0|^6.0|^7.0|^8.0",
                 "php": ">=5.5"
             },
             "require-dev": {
-                "guzzlehttp/psr7": "^1.3|^2.0",
+                "guzzlehttp/psr7": "^1.3|^2.0|^3.0",
                 "mtdowling/burgomaster": "dev-master#72151eddf5f0cf101502b94bf5031f9c53501a04",
                 "php-mock/php-mock-phpunit": "^1.1|^2.1",
                 "phpunit/phpunit": "^4.8.36|^7.5.15|^9.3.10",
@@ -178,9 +178,9 @@
             ],
             "support": {
                 "issues": "https://github.com/bugsnag/bugsnag-php/issues",
-                "source": "https://github.com/bugsnag/bugsnag-php/tree/v3.30.1"
+                "source": "https://github.com/bugsnag/bugsnag-php/tree/v3.31.0"
             },
-            "time": "2026-01-22T16:10:16+00:00"
+            "time": "2026-07-30T05:25:51+00:00"
         },
         {
             "name": "clue/stream-filter",
@@ -582,24 +582,24 @@
         },
         {
             "name": "graham-campbell/result-type",
-            "version": "v1.1.4",
+            "version": "v1.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/GrahamCampbell/Result-Type.git",
-                "reference": "e01f4a821471308ba86aa202fed6698b6b695e3b"
+                "reference": "adccca3324eece92ca35463648c12b9e6293c05b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/GrahamCampbell/Result-Type/zipball/e01f4a821471308ba86aa202fed6698b6b695e3b",
-                "reference": "e01f4a821471308ba86aa202fed6698b6b695e3b",
+                "url": "https://api.github.com/repos/GrahamCampbell/Result-Type/zipball/adccca3324eece92ca35463648c12b9e6293c05b",
+                "reference": "adccca3324eece92ca35463648c12b9e6293c05b",
                 "shasum": ""
             },
             "require": {
                 "php": "^7.2.5 || ^8.0",
-                "phpoption/phpoption": "^1.9.5"
+                "phpoption/phpoption": "^1.10"
             },
             "require-dev": {
-                "phpunit/phpunit": "^8.5.41 || ^9.6.22 || ^10.5.45 || ^11.5.7"
+                "phpunit/phpunit": "^8.5.52 || ^9.6.34 || ^10.5.63 || ^11.5.55 || ^12.5.14"
             },
             "type": "library",
             "autoload": {
@@ -628,7 +628,7 @@
             ],
             "support": {
                 "issues": "https://github.com/GrahamCampbell/Result-Type/issues",
-                "source": "https://github.com/GrahamCampbell/Result-Type/tree/v1.1.4"
+                "source": "https://github.com/GrahamCampbell/Result-Type/tree/v1.2.0"
             },
             "funding": [
                 {
@@ -640,7 +640,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2025-12-27T19:43:20+00:00"
+            "time": "2026-08-24T09:06:52+00:00"
         },
         {
             "name": "grasmash/expander",
@@ -696,16 +696,16 @@
         },
         {
             "name": "guzzlehttp/guzzle",
-            "version": "7.15.1",
+            "version": "7.15.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/guzzle.git",
-                "reference": "61443dfb33c62f308ee8add20f45b4d6e4bf8d2f"
+                "reference": "744101956d78b7c1384d0cbf379db13e859167bf"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/61443dfb33c62f308ee8add20f45b4d6e4bf8d2f",
-                "reference": "61443dfb33c62f308ee8add20f45b4d6e4bf8d2f",
+                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/744101956d78b7c1384d0cbf379db13e859167bf",
+                "reference": "744101956d78b7c1384d0cbf379db13e859167bf",
                 "shasum": ""
             },
             "require": {
@@ -804,7 +804,7 @@
             ],
             "support": {
                 "issues": "https://github.com/guzzle/guzzle/issues",
-                "source": "https://github.com/guzzle/guzzle/tree/7.15.1"
+                "source": "https://github.com/guzzle/guzzle/tree/7.15.2"
             },
             "funding": [
                 {
@@ -820,7 +820,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-07-18T11:23:11+00:00"
+            "time": "2026-07-26T23:23:20+00:00"
         },
         {
             "name": "guzzlehttp/promises",
@@ -2404,16 +2404,16 @@
         },
         {
             "name": "phpoption/phpoption",
-            "version": "1.9.5",
+            "version": "1.10.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/schmittjoh/php-option.git",
-                "reference": "75365b91986c2405cf5e1e012c5595cd487a98be"
+                "reference": "67b192b6a42ec03944b972d6e633ddec78ad2c6d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/schmittjoh/php-option/zipball/75365b91986c2405cf5e1e012c5595cd487a98be",
-                "reference": "75365b91986c2405cf5e1e012c5595cd487a98be",
+                "url": "https://api.github.com/repos/schmittjoh/php-option/zipball/67b192b6a42ec03944b972d6e633ddec78ad2c6d",
+                "reference": "67b192b6a42ec03944b972d6e633ddec78ad2c6d",
                 "shasum": ""
             },
             "require": {
@@ -2421,7 +2421,7 @@
             },
             "require-dev": {
                 "bamarni/composer-bin-plugin": "^1.8.2",
-                "phpunit/phpunit": "^8.5.44 || ^9.6.25 || ^10.5.53 || ^11.5.34"
+                "phpunit/phpunit": "^8.5.54 || ^9.6.36 || ^10.5.64 || ^11.5.56 || ^12.5.33"
             },
             "type": "library",
             "extra": {
@@ -2463,7 +2463,7 @@
             ],
             "support": {
                 "issues": "https://github.com/schmittjoh/php-option/issues",
-                "source": "https://github.com/schmittjoh/php-option/tree/1.9.5"
+                "source": "https://github.com/schmittjoh/php-option/tree/1.10.0"
             },
             "funding": [
                 {
@@ -2475,7 +2475,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2025-12-27T19:41:33+00:00"
+            "time": "2026-08-24T00:54:40+00:00"
         },
         {
             "name": "psr/cache",
@@ -6576,23 +6576,23 @@
         },
         {
             "name": "vlucas/phpdotenv",
-            "version": "v5.6.4",
+            "version": "v5.7.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/vlucas/phpdotenv.git",
-                "reference": "416df702837983f8d5ff48c9c3fee4f5f57b980b"
+                "reference": "301c07936b16d88628b126b01d082ba153cf4c40"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/vlucas/phpdotenv/zipball/416df702837983f8d5ff48c9c3fee4f5f57b980b",
-                "reference": "416df702837983f8d5ff48c9c3fee4f5f57b980b",
+                "url": "https://api.github.com/repos/vlucas/phpdotenv/zipball/301c07936b16d88628b126b01d082ba153cf4c40",
+                "reference": "301c07936b16d88628b126b01d082ba153cf4c40",
                 "shasum": ""
             },
             "require": {
                 "ext-pcre": "*",
-                "graham-campbell/result-type": "^1.1.4",
+                "graham-campbell/result-type": "^1.2",
                 "php": "^7.2.5 || ^8.0",
-                "phpoption/phpoption": "^1.9.5",
+                "phpoption/phpoption": "^1.10",
                 "symfony/polyfill-ctype": "^1.26",
                 "symfony/polyfill-mbstring": "^1.26",
                 "symfony/polyfill-php80": "^1.26"
@@ -6636,7 +6636,7 @@
                     "homepage": "https://github.com/vlucas"
                 }
             ],
-            "description": "Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.",
+            "description": "Loads environment variables from `.env` to `$_ENV` and `$_SERVER` automagically, and optionally to `getenv()`.",
             "keywords": [
                 "dotenv",
                 "env",
@@ -6644,7 +6644,7 @@
             ],
             "support": {
                 "issues": "https://github.com/vlucas/phpdotenv/issues",
-                "source": "https://github.com/vlucas/phpdotenv/tree/v5.6.4"
+                "source": "https://github.com/vlucas/phpdotenv/tree/v5.7.0"
             },
             "funding": [
                 {
@@ -6656,7 +6656,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-07-06T19:11:50+00:00"
+            "time": "2026-08-24T18:07:49+00:00"
         },
         {
             "name": "zumba/amplitude-php",
@@ -10420,16 +10420,16 @@
         },
         {
             "name": "phpcsstandards/phpcsutils",
-            "version": "1.2.2",
+            "version": "1.2.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/PHPCSStandards/PHPCSUtils.git",
-                "reference": "c216317e96c8b3f5932808f9b0f1f7a14e3bbf55"
+                "reference": "5f35d9408c54d7b529501f3c688b6eae562aea1f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PHPCSStandards/PHPCSUtils/zipball/c216317e96c8b3f5932808f9b0f1f7a14e3bbf55",
-                "reference": "c216317e96c8b3f5932808f9b0f1f7a14e3bbf55",
+                "url": "https://api.github.com/repos/PHPCSStandards/PHPCSUtils/zipball/5f35d9408c54d7b529501f3c688b6eae562aea1f",
+                "reference": "5f35d9408c54d7b529501f3c688b6eae562aea1f",
                 "shasum": ""
             },
             "require": {
@@ -10509,7 +10509,7 @@
                     "type": "thanks_dev"
                 }
             ],
-            "time": "2025-12-08T14:27:58+00:00"
+            "time": "2026-07-27T10:28:41+00:00"
         },
         {
             "name": "phpdocumentor/reflection-common",
@@ -11031,11 +11031,11 @@
         },
         {
             "name": "phpstan/phpstan",
-            "version": "2.2.6",
+            "version": "2.2.13",
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpstan/phpstan/zipball/a6e9b5a9420f6109c091e87d82683bd1a80b87ed",
-                "reference": "a6e9b5a9420f6109c091e87d82683bd1a80b87ed",
+                "url": "https://api.github.com/repos/phpstan/phpstan/zipball/9ba9ac76ee9c5cf5b56d58eb5deec6315b7a0260",
+                "reference": "9ba9ac76ee9c5cf5b56d58eb5deec6315b7a0260",
                 "shasum": ""
             },
             "require": {
@@ -11091,20 +11091,20 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-07-26T21:22:49+00:00"
+            "time": "2026-09-03T20:38:19+00:00"
         },
         {
             "name": "phpstan/phpstan-deprecation-rules",
-            "version": "2.0.4",
+            "version": "2.0.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpstan/phpstan-deprecation-rules.git",
-                "reference": "6b5571001a7f04fa0422254c30a0017ec2f2cacc"
+                "reference": "67bedd65c24bc72840afc45aed48b1059dd44bec"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpstan/phpstan-deprecation-rules/zipball/6b5571001a7f04fa0422254c30a0017ec2f2cacc",
-                "reference": "6b5571001a7f04fa0422254c30a0017ec2f2cacc",
+                "url": "https://api.github.com/repos/phpstan/phpstan-deprecation-rules/zipball/67bedd65c24bc72840afc45aed48b1059dd44bec",
+                "reference": "67bedd65c24bc72840afc45aed48b1059dd44bec",
                 "shasum": ""
             },
             "require": {
@@ -11114,7 +11114,8 @@
             "require-dev": {
                 "php-parallel-lint/php-parallel-lint": "^1.2",
                 "phpstan/phpstan-phpunit": "^2.0",
-                "phpunit/phpunit": "^9.6"
+                "phpunit/phpunit": "^9.6",
+                "shipmonk/name-collision-detector": "^2.1"
             },
             "type": "phpstan-extension",
             "extra": {
@@ -11139,9 +11140,9 @@
             ],
             "support": {
                 "issues": "https://github.com/phpstan/phpstan-deprecation-rules/issues",
-                "source": "https://github.com/phpstan/phpstan-deprecation-rules/tree/2.0.4"
+                "source": "https://github.com/phpstan/phpstan-deprecation-rules/tree/2.0.5"
             },
-            "time": "2026-02-09T13:21:14+00:00"
+            "time": "2026-07-22T06:50:43+00:00"
         },
         {
             "name": "phpunit/php-code-coverage",
@@ -13327,16 +13328,16 @@
         },
         {
             "name": "squizlabs/php_codesniffer",
-            "version": "3.13.5",
+            "version": "3.13.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/PHPCSStandards/PHP_CodeSniffer.git",
-                "reference": "0ca86845ce43291e8f5692c7356fccf3bcf02bf4"
+                "reference": "4c378e1a528ea066890fc2397cbdd2f94eb2fc91"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PHPCSStandards/PHP_CodeSniffer/zipball/0ca86845ce43291e8f5692c7356fccf3bcf02bf4",
-                "reference": "0ca86845ce43291e8f5692c7356fccf3bcf02bf4",
+                "url": "https://api.github.com/repos/PHPCSStandards/PHP_CodeSniffer/zipball/4c378e1a528ea066890fc2397cbdd2f94eb2fc91",
+                "reference": "4c378e1a528ea066890fc2397cbdd2f94eb2fc91",
                 "shasum": ""
             },
             "require": {
@@ -13402,7 +13403,7 @@
                     "type": "thanks_dev"
                 }
             ],
-            "time": "2025-11-04T16:30:35+00:00"
+            "time": "2026-08-06T00:17:32+00:00"
         },
         {
             "name": "staabm/side-effects-detector",
